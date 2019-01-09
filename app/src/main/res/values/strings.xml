@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="locFileInfo"> File not saved </string>
+    <string name="saveToFileLabel">save to File</string>
+    <string name="startInfo">tStart: </string>
+    <string name="stopInfo">tStop: </string>
+    <string name="sampFreq">sampFreq: </string>
+    <string name="startTimeInit"> 0 </string>
+    <string name="stopTimeInit"> 6.28 </string>
+    <string name="sampFreqInit"> 10 </string>
+
+</resources>
